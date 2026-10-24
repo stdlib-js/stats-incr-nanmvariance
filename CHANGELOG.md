@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-05)
+## Unreleased (2026-10-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8ccf1c0`](https://github.com/stdlib-js/stdlib/commit/8ccf1c0614de61e8f68da2f0a936a13ea7443969) - **test:** migrate `stats/incr/nanmvariance` to ULP-based assertions [(#16204)](https://github.com/stdlib-js/stdlib/pull/16204) _(by Athan Reines)_
 -   [`dac85e0`](https://github.com/stdlib-js/stdlib/commit/dac85e0230cd4052f0ec097d58e3372d899782f6) - **docs:** update Markdown equation elements [(#13966)](https://github.com/stdlib-js/stdlib/pull/13966) _(by stdlib-bot, Athan Reines)_
 -   [`b51ebff`](https://github.com/stdlib-js/stdlib/commit/b51ebff8a15e9d9cf8d9bb64d569d709f45fc994) - **docs:** update Markdown equation elements [(#13928)](https://github.com/stdlib-js/stdlib/pull/13928) _(by stdlib-bot)_
 -   [`eef189a`](https://github.com/stdlib-js/stdlib/commit/eef189aaf15449c64e55d7b11576eca43ed7e479) - **feat:** add `stats/incr/nanmvariance` [(#13647)](https://github.com/stdlib-js/stdlib/pull/13647) _(by Arjan-P, Philipp Burckhardt, stdlib-bot)_
